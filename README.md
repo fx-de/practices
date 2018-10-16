@@ -2,7 +2,7 @@
 __
 
 ## Naming Convention
-![python_naming_convention](D:\Projects\Fusionex\python_naming_convention.JPG)
+![python_naming_convention](python_naming_convention.JPG)
 
 
 
